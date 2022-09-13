@@ -1,0 +1,22 @@
+body{
+    color: antiquewhite;
+    background-image: url(https://www.solidbackgrounds.com/images/1920x1080/1920x1080-bottle-green-solid-color-background.jpg) ;
+    text-align: center;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    
+}
+h2{
+    color: khaki;
+    
+}
+h1{
+    color: khaki;
+}
+h3{
+    font-weight: lighter;
+
+}
+
+
