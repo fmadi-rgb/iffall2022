@@ -1,0 +1,31 @@
+h1{
+    color: brown;
+    margin-bottom: 1em;
+}
+html{
+    margin-top: 1em;
+    margin-left: 2em;
+}
+#subheads{
+    font-size: 17px;
+    font-weight: lighter;
+    margin-left: 3 em;
+    color:brown
+}
+li{
+    font-size: 15 px;
+    margin-left: 4em;
+    color: brown;
+}
+ol{
+    margin-left: -1.5em;
+    margin right: 2em
+}
+#critique{
+    margin-left: 2em;
+    margin-top: 2em;
+
+}
+
+
+
