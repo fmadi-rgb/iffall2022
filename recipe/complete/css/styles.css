@@ -1,0 +1,121 @@
+html{
+    font-family: 'Raleway', sans-serif;
+    background-color: #F3B269
+}
+
+body{
+    width: 90%;
+    max-width: 800px;
+    margin: auto;
+}
+
+#shells-image{
+    padding: 0px;
+}
+#shells{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 100%;
+}
+
+#name{
+margin: 0px;
+margin-left: 40px;
+}
+
+h1{
+    font-weight: lighter;
+    font-size: 30pt;
+    color: #FCF9CE;
+    margin-bottom: 0px;
+}
+ h2{
+    color: #BE1E2D;
+    font-size: 20px;
+    margin-bottom: 40px;
+ }
+
+ #prep-ingredients{
+    margin: 0;
+    color: #BE1E2D;
+}
+
+#directions{
+    font-size: 25px;
+    margin-top: 30px;
+    padding-left: 20px;
+    font-weight: bold;
+    color: #FCF9CE;
+    border-radius: 25px;
+    background: #BE1E2D;
+    padding: 20px;
+}
+
+
+.prep{
+    font-size: 20px;
+    border-radius: 25px;
+  background: #FCF9CE;
+  padding: 30px;
+  margin-bottom: 15px;
+  
+}
+
+.ingredients{
+    font-size: 20px;
+    border-radius: 25px;
+  background: #FCF9CE;
+  padding: 30px;
+  margin-bottom: 10px;
+}
+
+#directions ol li{
+    margin-bottom: 20px;
+}
+
+@media only screen and (min-width: 680px){
+    #prep-ingredients{
+        display: flex;
+    }
+    .prep{
+        width: 50%;
+    }
+    .ingredients{
+        margin-left: 10px;
+        width: 50%;
+    }
+
+    h1{
+        font-size: 50px;
+    }
+    
+    h2{
+        font-size: 25px;
+    }
+}
+
+@media only screen and (min-width: 960px){
+    #prep-ingredients{
+        display: flex;
+    }
+
+    .ingredients{
+        margin-left: 10px;
+    }
+
+    h1{
+        font-size: 60px;
+    }
+    
+    h2{
+        font-size: 25px;
+    }
+}
+
+
+
+
+
+
